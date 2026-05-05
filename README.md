@@ -69,7 +69,7 @@ With its sleek **Dark Mode** interface and high-performance architecture, Qatra 
 ### Local Development
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/qatra.git
+   git clone https://github.com/qatra-ma/qatra.git
    ```
 2. **Setup Environment**:
    Create a `.env` file with your Firebase configuration.
