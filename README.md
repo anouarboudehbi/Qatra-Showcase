@@ -111,7 +111,7 @@ Stay updated with the latest news and donor success stories:
 ---
 
 <div align="center">
-  <p>Qatra: Tech-Driven Wellness for Every Moroccan. 🕊️🇲🇦</p>
+<p>Founded, Developed & Designed with ❤️ in Morocco by Anouar Boudehbi</p>
 </div>
 
  
