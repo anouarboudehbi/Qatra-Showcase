@@ -139,7 +139,7 @@ Stay updated with the latest news and donor success stories:
 
 ## 🤝 Contributors
 
-* **Anouar** - Lead Developer & UI/UX Designer
+* **Anouar BOUDEHBI** - Lead Developer & UI/UX Designer
 
 ---
 
