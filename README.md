@@ -21,6 +21,28 @@ By pairing a futuristic, high-performance web dashboard with a Kotlin-powered mo
 
 ---
 
+## 📱 App Screenshots
+
+<div align="center">
+  <img src="qatraapp1.png" width="200" alt="Screenshot 1"/>
+  <img src="qatraapp2.png" width="200" alt="Screenshot 2"/>
+  <img src="qatraapp3.png" width="200" alt="Screenshot 3"/>
+  <img src="qatraapp4.png" width="200" alt="Screenshot 4"/>
+  <img src="qatraapp5.png" width="200" alt="Screenshot 5"/>
+  <img src="qatraapp6.png" width="200" alt="Screenshot 6"/>
+  <img src="qatraapp7.png" width="200" alt="Screenshot 7"/>
+  <br/>
+  <img src="qatraapp8.png" width="200" alt="Screenshot 8"/>
+  <img src="qatraapp9.png" width="200" alt="Screenshot 9"/>
+  <img src="qatraapp10.png" width="200" alt="Screenshot 10"/>
+  <img src="qatraapp11.png" width="200" alt="Screenshot 11"/>
+  <img src="qatraapp12.png" width="200" alt="Screenshot 12"/>
+  <img src="qatraapp13.png" width="200" alt="Screenshot 13"/>
+  <img src="qatraapp14.png" width="200" alt="Screenshot 14"/>
+</div>
+
+---
+
 ## 🚀 Key Features & Modules
 
 ### 1. 🩸 Blood Donation Command Center
