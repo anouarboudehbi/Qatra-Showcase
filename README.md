@@ -74,12 +74,12 @@ By pairing a futuristic, high-performance web dashboard with a Kotlin-powered mo
 * **Social Medicine Redistribution**: A secure, verified market for citizens to donate unexpired, surplus medications to low-income families.
 * **Smart Search Filter**: Enables users to search by specific drug names or active ingredients within a local geographic radius to resolve temporary drug shortages.
 
-### 6. 🏢 Hospital & Clinic Command Center (`clinic.html`)
+### 6. 🏢 Hospital & Clinic Command Center (`clinic`)
 * **SOS Broadcaster**: Allows medical staff to broadcast instant geo-targeted alerts to local donors of specific matching blood types in emergencies.
 * **Digital Check-In Validator**: Generates unique OTP codes that validate successful blood donations when scanned/entered, updating the donor's digital blood passport instantly.
 * **Stock & Donor Analytics**: Real-time visualization charts displaying donation rates, current reserves, and donor demographic insights.
 
-### 7. ⚙️ Qatra Admin Concierge Console (`qatra_admin_concierge.html`)
+### 7. ⚙️ Qatra Admin Concierge Console (`qatra_admi`)
 * **Live Request Control Panel**: Monitor and manage all blood and healthcare requests.
 * **Medical Certificate Inspection**: Dedicated verification column allowing admins to review medical certificates and publish/approve requests with a single click.
 * **Interactive Notifications Drawer**: Built-in glassmorphic notifications drawer with real-time counters, audio alerts, and locally-synced read statuses.
@@ -104,8 +104,8 @@ By pairing a futuristic, high-performance web dashboard with a Kotlin-powered mo
 │   └── src/main/java/.../repository # Safe Firebase Data Snapshot Parsers
 ├── 🏢 clinic.html                   # Medical Center Control Panel
 ├── 🌐 index.html                    # Main Portal & Donor Hub
-├── ⚙️ qatra_admin_concierge.html     # High-End Admin Command Console
-├── 📜 qatra_admin_concierge.js       # Real-time Admin Notifications & Actions
+├── ⚙️ qatra_admin.html     # High-End Admin Command Console
+├── 📜 qatra_admin.js       # Real-time Admin Notifications & Actions
 └── 📜 database.rules.json           # Secure RBAC Database Rules
 ```
 
