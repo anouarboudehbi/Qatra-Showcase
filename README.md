@@ -153,8 +153,8 @@ Qatra is built with a **Security-First** approach:
 ## 🌐 Connect With Us
 
 Stay updated with the latest news and donor success stories:
-* **Facebook**: [Qatra Official](https://web.facebook.com/profile.php?id=61589092855136)
-* **Instagram**: [@qatra_ma](https://www.instagram.com/qatra_app)
+* **Facebook**: [Qatra App Official](https://web.facebook.com/profile.php?id=61589092855136)
+* **Instagram**: [@qatra App](https://www.instagram.com/qatra_app)
 * **Official Website**: [qatra.web.app](https://qatra.web.app)
 
 ---
