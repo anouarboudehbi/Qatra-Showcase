@@ -6,9 +6,7 @@
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-CCFF00.svg)](https://opensource.org/licenses/MIT)
   [![Platform: Web & Android](https://img.shields.io/badge/Platform-Web%20%26%20Android-00E5FF.svg)](#)
-  [![Firebase: Cloud Architecture](https://img.shields.io/badge/Cloud-Firebase%20Realtime-FFCA28.svg)](https://firebase.google.com/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boudehbi-anouar)
-  [![Wikipedia](https://img.shields.io/badge/Wikipédia-Anouar%20Boudehbi-FFFFFF.svg?logo=wikipedia&logoColor=black)](https://fr.wikipedia.org/wiki/Utilisateur:Anouar_Boudehbi)
+  [![Firebase: Active](https://img.shields.io/badge/Firebase-Realtime%20Database-FFCA28.svg)](https://firebase.google.com/)
   
   **"Connecting hearts, mobilizing care, and saving lives in real-time."**
 </div>
@@ -17,122 +15,156 @@
 
 ## 🌟 Overview
 
-**Qatra** is a state-of-the-art, multi-faceted Health-Tech and Civic Solidarity Super App engineered to revolutionize blood donation logistics and decentralized home healthcare across the Kingdom of Morocco. Built from the ground up to solve critical medical time-to-response challenges, Qatra establishes a direct, high-trust digital bridge connecting voluntary blood donors, patients, certified healthcare professionals, pharmacies, and regional transfusion centers.
+**Qatra** is a state-of-the-art, multi-faceted Super App engineered to revolutionize blood donation and decentralized healthcare logistics in Morocco. Built from the ground up to address real-world medical challenges, Qatra bridges the gap between donors, patients, certified healthcare professionals, pharmacies, and clinics.
 
-By coupling a futuristic, ultra-fast web command interface with a modern Kotlin-powered native mobile application, Qatra guarantees that critical emergency blood requests mobilize matching donors within minutes, while empowering patients with certified home nursing, physical therapy, and verified emergency supplies.
-
----
-
-## 💎 Core Architecture & Technical Highlights
-
-### 1. 🩸 National Blood Donation Command Center
-* **Spatial Geofenced Dispatch**: High-efficiency Haversine spatial algorithms calculate geographical proximity in milliseconds to broadcast urgent alerts to compatible donors within a localized radius, eliminating notification fatigue.
-* **Live Regional Stock Barometer**: Dynamic tracking of blood reserves across all major administrative health regions of Morocco (Casablanca-Settat, Rabat-Salé-Kénitra, Marrakech-Safi, Tanger-Tétouan-Al Hoceïma, Fès-Meknès, Souss-Massa).
-* **Anti-Fraud Medical Verification**: Integrated validation protocol for official hospital blood requests (*Demande de sang officielle*), granting verified emergency calls a green cryptographic trust badge to maximize donor mobilization.
-* **Gamified Civic Loyalty & Digital Passport**: Tiered recognition ranks (*منقذ النخبة*, *درع الوطن*, *سفير الحياة*) and tamper-resistant digital donor profiles that track cumulative lives saved.
-
-### 2. 🩺 Decentralized Home Healthcare Concierge
-* **On-Demand Licensed Care**: Real-time dispatching of certified nurses for professional dressing and wound care, and licensed physiotherapists for rehabilitation.
-* **Provider Geospatial Radar**: Interactive spatial radar interface allowing licensed practitioners to visualize nearby service requests in real time.
-* **Autonomous Wallet Ledger**: Direct digital accounting ledger for medical practitioners with transparent transaction histories and automated balance calculations.
-
-### 3. 🏪 Strategic Pharmacy Solidarity Network
-* **Live Catalog & Reserve Verification**: Digital synchronization with partner pharmacies and parapharmacies across major metropolitan hubs for real-time inventory checking.
-* **P2P Medicine Redistribution (*صيدلية التضامن*)**: Secure citizen-to-citizen solidarity channel facilitating the donation of surplus, non-expired medications to low-income families under strict safety guidelines.
-
-### 4. 🤖 Anwar AI Empathy & Health Guidance Engine
-* **Tri-Lingual Health Intelligence**: Powered by generative AI, Anwar communicates fluently in **Moroccan Darija (الدارجة المغربية)**, **French**, and **English**.
-* **Clinical Knowledge & Psychological Support**: Provides guidance on blood donation preparation, addresses needle apprehension with evidence-based relaxation strategies, and clarifies first-aid procedures.
-
-### 5. 🚨 Seismic Early-Warning & Citizen Safety Mesh
-* **Crowdsourced Telemetry**: Transforms connected smartphones into a distributed network capable of logging initial seismic vibrations to warn surrounding communities.
-* **Multi-Channel Emergency Broadcast**: Automatic fallback from cloud synchronization to instant SMS and WhatsApp dispatching, ensuring mission-critical alerts function during network congestion.
+By pairing a futuristic, high-performance web dashboard with a Kotlin-powered mobile app, Qatra ensures emergency blood requests find donors in minutes, and patients receive critical home nursing, physical therapy, and medical supplies instantly.
 
 ---
 
-## 📱 App Showcase
+## 📱 App Screenshots
 
 <div align="center">
-  <img src="qatraapp1.png" width="200" alt="Qatra App Screen 1" style="border-radius: 12px; margin: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" />
-  <img src="qatraapp2.png" width="200" alt="Qatra App Screen 2" style="border-radius: 12px; margin: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" />
-  <img src="qatraapp3.png" width="200" alt="Qatra App Screen 3" style="border-radius: 12px; margin: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" />
-  <img src="qatraapp4.png" width="200" alt="Qatra App Screen 4" style="border-radius: 12px; margin: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" />
-  <img src="qatraapp5.png" width="200" alt="Qatra App Screen 5" style="border-radius: 12px; margin: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" />
-  <img src="qatraapp6.png" width="200" alt="Qatra App Screen 6" style="border-radius: 12px; margin: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" />
-  <img src="qatraapp7.png" width="200" alt="Qatra App Screen 7" style="border-radius: 12px; margin: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" />
+  <img src="qatraapp1.png" width="200" alt="Screenshot 1"/>
+  <img src="qatraapp2.png" width="200" alt="Screenshot 2"/>
+  <img src="qatraapp3.png" width="200" alt="Screenshot 3"/>
+  <img src="qatraapp4.png" width="200" alt="Screenshot 4"/>
+  <img src="qatraapp5.png" width="200" alt="Screenshot 5"/>
+  <img src="qatraapp6.png" width="200" alt="Screenshot 6"/>
+  <img src="qatraapp7.png" width="200" alt="Screenshot 7"/>
   <br/>
-  <img src="qatraapp8.png" width="200" alt="Qatra App Screen 8" style="border-radius: 12px; margin: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" />
-  <img src="qatraapp9.png" width="200" alt="Qatra App Screen 9" style="border-radius: 12px; margin: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" />
-  <img src="qatraapp10.png" width="200" alt="Qatra App Screen 10" style="border-radius: 12px; margin: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" />
-  <img src="qatraapp11.png" width="200" alt="Qatra App Screen 11" style="border-radius: 12px; margin: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" />
-  <img src="qatraapp12.png" width="200" alt="Qatra App Screen 12" style="border-radius: 12px; margin: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" />
-  <img src="qatraapp13.png" width="200" alt="Qatra App Screen 13" style="border-radius: 12px; margin: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" />
-  <img src="qatraapp14.png" width="200" alt="Qatra App Screen 14" style="border-radius: 12px; margin: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" />
+  <img src="qatraapp8.png" width="200" alt="Screenshot 8"/>
+  <img src="qatraapp9.png" width="200" alt="Screenshot 9"/>
+  <img src="qatraapp10.png" width="200" alt="Screenshot 10"/>
+  <img src="qatraapp11.png" width="200" alt="Screenshot 11"/>
+  <img src="qatraapp12.png" width="200" alt="Screenshot 12"/>
+  <img src="qatraapp13.png" width="200" alt="Screenshot 13"/>
+  <img src="qatraapp14.png" width="200" alt="Screenshot 14"/>
 </div>
 
 ---
 
-## 🛠️ Technology Stack & Engineering Standards
+## 🚀 Key Features & Modules
 
-* **Native Mobile Architecture**: Kotlin, Jetpack Compose, Coroutines & Kotlin Flow, Location Services, Hardware Haptics.
-* **Web Engineering**: Semantic HTML5, Vanilla CSS3 (Custom Glassmorphism design tokens, CSS variables, Dark Mode aesthetics), Leaflet GIS mapping engine, Modular JavaScript.
-* **Cloud & Infrastructure**: Distributed Realtime Sync, Secure Tokenized Authentication, Distributed Cloud Storage, CDN edge delivery.
-* **Resilience & Fallback Engineering**: Offline PWA caching, local storage state persistence, carrier SMS fallback bridges.
+### 1. 🩸 Blood Donation Command Center
+* **Live SOS Broadcasts**: Doctors and clinics can initiate urgent geo-targeted SOS alerts.
+* **Haversine Distance Matching**: A high-efficiency Kotlin algorithm parses active donor coordinates to alert only those within a 10km radius of the hospital, preventing message fatigue.
+* **Gamified Loyalty System**: Donors earn points, digital badges (`منقذ النخبة` ✨, `درع الوطن` 🛡️, `سفير الحياة` 💎), and track their lifetime lives-saved contribution.
+* **Digital QR Passport**: Enables instant, secure donor check-in at centers.
+
+### 2. 🩺 Home Healthcare Concierge (طبيبك القريب)
+* **On-Demand Home Services**: Patients can request certified home care, including wound care (`💉 تمريض وتضميد الجروح`) and physiotherapy (`🧘 الترويض الطبي`).
+* **360° Real-Time Provider Radar**: Licensed nurses and physiotherapists utilize a radar simulator screen to view pending local requests on a spatial map.
+* **Secure Provider Wallets**: Providers receive direct payments, track their earnings, manage custom commission structures, and review transaction logs.
+* **Administrative Verification (OTP)**: Strict credentials screening verified via WhatsApp and activated securely through generated OTP codes.
+
+### 3. 🏪 Smart Pharmacy & Parapharmacy Hub (الصيدلية الذكية والبارافارماسي)
+* **Strategic Partnerships**: Direct API & database integrations with licensed pharmacies and parapharmacies in major cities (**Rabat, Salé, Casablanca**), syncing live stock catalog, unit prices, and store locations.
+* **Interactive Radar Search**: Enables patients and providers to scan nearby pharmacies on a map showing distances, real-time hours, and verified item availability.
+* **The 4-Stage Care & Delivery Lifecycle (مراحل دورة حياة الطلب والتوصيل):**
+  1. **Selection & Reservation (الاختيار والحجز)**: The patient selects needed medical items (e.g., dressings, sterile gauze, sanitizers, or monitors) from the partner pharmacy. The items are locked in the database and linked to the home care request.
+  2. **Unified Dispatch (إرسال الطلب الموحد)**: The combined healthcare + items request is broadcast to verified nearby nurses and physical therapists (within a 10km radius).
+  3. **Caregiver Acceptance & Pickup (القبول والمسار)**: The caregiver accepts the request, picks up the reserved items from the partner pharmacy during their transit, and delivers them directly to the patient's home to perform the service.
+  4. **DABA App Failover Integration (آلية الربط الاحتياطي مع تطبيق دابا)**: If the caregiver rejects the delivery portion, the Qatra engine instantly triggers an HTTP PUT request to the **DABA App database** (`https://daba-caregiver-default-rtdb.firebaseio.com/rejected_deliveries/`). This dispatch triggers a nearby DABA delivery ambassador ("Safir") to deliver the items, ensuring they arrive synchronously with the caregiver.
+
+### 4. 💬 Anwar AI Chat Companion (المساعد الذكي "أنوار")
+* **Generative AI Diagnostics**: Integrates an advanced conversational agent capable of communicating fluently in **Moroccan Darija** and Standard Arabic.
+* **Educational & Guidance Agent**: Answers FAQs about blood donation eligibility, debunks myths, guides users on donation center hours, and offers psychological comfort to patients.
+
+### 5. 🦽 Medical Equipment & Loan Bank (بنك المعدات الطبية والإعارات)
+* **Social Equipment Lending & Donation**: A secure, verified citizen-to-citizen solidarity channel for lending and donating wheelchairs, crutches, hospital beds, oxygen concentrators, and monitoring devices to low-income families.
+* **100% Law 17-04 Compliant**: Replaces drug redistribution with durable mobility and respiratory equipment loans, fully respecting Moroccan pharmacy regulations while providing vital humanitarian support.
+
+### 6. 🏢 Hospital & Clinic Command Center (`clinic.html`)
+* **SOS Broadcaster**: Allows medical staff to broadcast instant geo-targeted alerts to local donors of specific matching blood types in emergencies.
+* **Digital Check-In Validator**: Generates unique OTP codes that validate successful blood donations when scanned/entered, updating the donor's digital blood passport instantly.
+* **Stock & Donor Analytics**: Real-time visualization charts displaying donation rates, current reserves, and donor demographic insights.
+
+### 7. ⚙️ Qatra Admin Concierge Console (`qatra_admin_concierge.html`)
+* **Live Request Control Panel**: Monitor and manage all blood and healthcare requests.
+* **Medical Certificate Inspection**: Dedicated verification column allowing admins to review medical certificates and publish/approve requests with a single click.
+* **Interactive Notifications Drawer**: Built-in glassmorphic notifications drawer with real-time counters, audio alerts, and locally-synced read statuses.
+* **Financial Ledger & Wallet Recharge**: Manage provider commission rates (15% to 20%), view transaction histories, and execute wallet recharges with detailed activity logging.
 
 ---
 
-## 🔒 Security, Trust & Data Protection
+## 🛠️ Technology Stack
 
-Qatra is architected with a strict **Security-First** and **Privacy-by-Design** philosophy:
-* **Zero-Trust Role-Based Access Control (RBAC)**: Fine-grained declarative security policies ensure that patients, healthcare providers, and administrative personnel can only access authorized data pathways.
-* **No-Index Privacy Protection**: Administrative consoles and medical dashboards strictly enforce `X-Robots-Tag: noindex, nofollow` headers to eliminate any public indexing of sensitive patient records.
-* **Resilient Deserialization**: Strict type casting and null-safe data models safeguard mobile clients against inconsistent payloads.
-* **Data Minimization**: Emergency broadcasts convey only medically essential parameters (blood group, city, hospital) to protect donor and patient identities.
-
----
-
-## 🤝 Ecosystem Synergy
-
-* **Moroccan Pharmacy Landscape**: Direct synchronization for real-time item availability and healthcare accessibility.
-* **DABA Logistics Network**: Strategic ecosystem interoperability enabling synchronous delivery coordination between healthcare practitioners and logistics ambassadors.
+* **Mobile (Android)**: Kotlin, Jetpack Compose, Coroutines, Flow, Haptic Feedback, Google Play Location Services.
+* **Web (Admin & Clinic)**: HTML5, CSS3 (Futuristic Dark Theme, HSL-color tokens, Glassmorphism), Vanilla JavaScript, Chart.js.
+* **Backend & Database**: Firebase (Realtime Database, Authentication, Firestore, Hosting).
+* **Cross-Platform Integration**: Direct REST API integration with the **DABA App** for delivery failover.
 
 ---
 
-## 🌐 Connect & Community
+## 📂 Project Structure
 
-* **Official Portal**: [qatra.web.app](https://qatra.web.app)
-* **LinkedIn**: [Anouar BOUDEHBI](https://www.linkedin.com/in/boudehbi-anouar)
-* **Wikipédia**: [Anouar Boudehbi - Wikipédia](https://fr.wikipedia.org/wiki/Utilisateur:Anouar_Boudehbi)
-* **Facebook**: [Qatra App Official](https://web.facebook.com/profile.php?id=61589092855136)
-* **Instagram**: [@qatra_app](https://www.instagram.com/qatra_app)
+```bash
+├── 📱 app/                          # Kotlin Android Mobile App
+│   ├── src/main/java/.../healthcare # Home Healthcare & Radar Compose Screens
+│   └── src/main/java/.../repository # Safe Firebase Data Snapshot Parsers
+├── 🏢 clinic.html                   # Medical Center Control Panel
+├── 🌐 index.html                    # Main Portal & Donor Hub
+├── ⚙️ qatra_admin_concierge.html     # High-End Admin Command Console
+├── 📜 qatra_admin_concierge.js       # Real-time Admin Notifications & Actions
+└── 📜 database.rules.json           # Secure RBAC Database Rules
+```
 
 ---
 
-## 👨‍💻 Author & Lead Architect
+## 💻 Getting Started
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/boudehbi-anouar">
-        <img src="https://github.com/anouarboudehbi.png" width="110px;" alt="Anouar BOUDEHBI" style="border-radius: 50%; border: 2px solid #00E5FF;"/><br />
-        <sub><b>Anouar BOUDEHBI</b></sub>
-      </a><br />
-      <sub>Founder & CEO | Lead System Architect & UI/UX Designer</sub><br /><br />
-      <a href="https://www.linkedin.com/in/boudehbi-anouar">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="https://fr.wikipedia.org/wiki/Utilisateur:Anouar_Boudehbi">
-        <img src="https://img.shields.io/badge/Wikipédia-Profile-FFFFFF?style=flat&logo=wikipedia&logoColor=black" alt="Wikipedia" />
-      </a>
-      <a href="https://github.com/anouarboudehbi">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
-  </tr>
-</table>
+### Prerequisites
+- Node.js & npm (for hosting/dev)
+- Android Studio (for mobile development)
+
+### Local Development
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/qatra-ma/qatra.git
+   ```
+2. **Setup Environment**:
+   Create a `.env` file or database config file with your Firebase configuration.
+3. **Run Web App**:
+   ```bash
+   npm install
+   ```
+4. **Deploy to Firebase**:
+   ```bash
+   firebase deploy
+   ```
+
+---
+
+## 🔒 Security & Privacy
+
+Qatra is built with a **Security-First** approach:
+* **No-Index Protection**: Clinical and administrative dashboards contain non-indexing headers to prevent exposure to search engines.
+* **Robust Deserialization**: Custom Kotlin parsers handle numeric database type casting safely, protecting the app from runtime crashes.
+* **Role-Based Access Control**: Enforced rules in Firebase ensure patients, providers, and admins can only write/read authorized paths.
+
+---
+
+## 🤝 Partners & Integrations
+* **Moroccan Pharmacy Syndicate**: Providing live pricing and product lists.
+* **DABA App Ecosystem**: Direct integration with the DABA logistics network for medical delivery ambassador dispatch.
+
+---
+
+## 🌐 Connect With Us
+
+Stay updated with the latest news and donor success stories:
+* **Facebook**: [Qatra Official](https://web.facebook.com/profile.php?id=61589092855136)
+* **Instagram**: [@qatra_ma](https://www.instagram.com/qatra_ma)
+* **Official Website**: [qatra.web.app](https://qatra.web.app)
+
+---
+
+## 🤝 Contributors
+
+* **Anouar BOUDEHBI** - Founder, Lead Developer & UI/UX Designer
 
 ---
 
 <div align="center">
-  <p><b>Qatra: Tech-Driven Wellness for Every Moroccan. 🕊️🇲🇦</b></p>
+  <p>Qatra: Tech-Driven Wellness for Every Moroccan. 🕊️🇲🇦</p>
 </div>
