@@ -57,14 +57,14 @@ By pairing a futuristic, high-performance web dashboard with a Kotlin-powered mo
 * **Secure Provider Wallets**: Providers receive direct payments, track their earnings, manage custom commission structures, and review transaction logs.
 * **Administrative Verification (OTP)**: Strict credentials screening verified via WhatsApp and activated securely through generated OTP codes.
 
-### 3. 🏪 Smart Pharmacy & Parapharmacy Hub (الصيدلية الذكية والبارافارماسي)
-* **Strategic Partnerships**: Direct API & database integrations with licensed pharmacies and parapharmacies in major cities (**Rabat, Salé, Casablanca**), syncing live stock catalog, unit prices, and store locations.
-* **Interactive Radar Search**: Enables patients and providers to scan nearby pharmacies on a map showing distances, real-time hours, and verified item availability.
-* **The 4-Stage Care & Delivery Lifecycle (مراحل دورة حياة الطلب والتوصيل):**
-  1. **Selection & Reservation (الاختيار والحجز)**: The patient selects needed medical items (e.g., dressings, sterile gauze, sanitizers, or monitors) from the partner pharmacy. The items are locked in the database and linked to the home care request.
-  2. **Unified Dispatch (إرسال الطلب الموحد)**: The combined healthcare + items request is broadcast to verified nearby nurses and physical therapists (within a 10km radius).
-  3. **Caregiver Acceptance & Pickup (القبول والمسار)**: The caregiver accepts the request, picks up the reserved items from the partner pharmacy during their transit, and delivers them directly to the patient's home to perform the service.
-  4. **DABA App Failover Integration (آلية الربط الاحتياطي مع تطبيق دابا)**: If the caregiver rejects the delivery portion, the Qatra engine instantly triggers an HTTP PUT request to the **DABA App database** (`https://daba-caregiver-default-rtdb.firebaseio.com/rejected_deliveries/`). This dispatch triggers a nearby DABA delivery ambassador ("Safir") to deliver the items, ensuring they arrive synchronously with the caregiver.
+### 3. 🧴 Parapharmacy Ordering Gate & Guard Pharmacy Directory (بوابة البارافارماسي ودليل صيدليات الحراسة)
+* **Parapharmacy Ordering Portal (بوابة البارافارماسي)**: 100% compliant with Moroccan health regulations (Law 17-04). Allows users to easily browse, select, and order paramedical products (`منتوجات شبه طبية`), dietary supplements (`مكملات غذائية`), personal care items, sterile dressings, and home diagnostic devices (`أجهزة قياس السكر والضغط والحرارة`) from certified nearby parapharmacies in major cities (**Rabat, Salé, Casablanca**).
+* **Guard Pharmacy Directory (دليل صيدليات الحراسة فقط - دون بيع أو طلب دواء)**: Strictly an informational guide dedicated to patient guidance. Provides 24/7 day and night duty rotas (`صيدليات الحراسة الليلية والنهارية`), verified direct telephone contacts, and instant turn-by-turn GPS navigation via Google Maps. **Zero ordering or sale of prescription/chemical medications** takes place through the app, fully honoring the pharmacy profession and health regulations.
+* **The 4-Stage Parapharmacy Care & Delivery Lifecycle (مراحل طلب وتوصيل مستلزمات البارافارماسي):**
+  1. **Selection & Basket (التصفح والطلب من البارافارماسي)**: The patient selects authorized paramedical supplies, supplements, or dressings directly from the nearest partner parapharmacy catalog.
+  2. **Unified Care Dispatch (إرسال الطلب الموحد)**: If requested as part of home nursing care, the combined healthcare + parapharmacy items request is broadcast to verified nearby caregivers (within a 10km radius).
+  3. **Caregiver Pickup & Delivery (استلام الممرض والتوصيل)**: The certified caregiver accepts the visit, picks up the prepared parapharmacy supplies during transit, and delivers them directly to the patient's home.
+  4. **Direct DABA App Courier Failover (التوصيل السريع عبر سفراء تطبيق دابا)**: If the order is requested independently or the caregiver opts for home visit only, the request is dispatched to the **DABA App logistics ecosystem** (`https://daba-caregiver-default-rtdb.firebaseio.com/`), deploying a nearby verified DABA delivery ambassador ("Safir") to deliver parapharmacy items quickly to the patient's doorstep.
 
 ### 4. 💬 Anwar AI Chat Companion (المساعد الذكي "أنوار")
 * **Generative AI Diagnostics**: Integrates an advanced conversational agent capable of communicating fluently in **Moroccan Darija** and Standard Arabic.
@@ -145,8 +145,9 @@ Qatra is built with a **Security-First** approach:
 ---
 
 ## 🤝 Partners & Integrations
-* **Moroccan Pharmacy Syndicate**: Providing live pricing and product lists.
-* **DABA App Ecosystem**: Direct integration with the DABA logistics network for medical delivery ambassador dispatch.
+* **Moroccan Pharmacy Syndicate & Regional Boards**: Synchronizing verified 24/7 night and day duty pharmacy schedules and official directory records.
+* **Certified Parapharmacy Partner Network**: Providing live inventories, nutritional supplements, and certified paramedical care essentials.
+* **DABA App Ecosystem**: Direct integration with the DABA logistics network for parapharmacy delivery ambassador dispatch.
 
 ---
 
